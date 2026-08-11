@@ -38,7 +38,7 @@
 
 | Project | Description |
 |---|---|
-| **[WallStreetTycoon](https://github.com/LiamKeech/WallStreetTycoon)** | Java/Android/SQLite stock trading game — third-year capstone, built with a team of three |
+| **[WallStreetTycoon](https://github.com/LiamKeech/WallStreetTycoon)** | Java/Android/SQLite stock trading game capstone project |
 | **[Multi-agent-Research-Assistant](https://github.com/LiamKeech/Multi-agent-Research-Assistant)** | Python multi-agent system with a dependency-validated planner and defensive tool-call parsing |
 | **[wind-turbine-fault-detection](https://github.com/LiamKeech/wind-turbine-fault-detection)** | Machine learning fault classification on turbine sensor data |
 | **[bean-classifier-mlp](https://github.com/LiamKeech/bean-classifier-mlp)** | Multi-layer perceptron classifier for bean variety identification |
